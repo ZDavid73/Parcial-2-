@@ -1,0 +1,19 @@
+.titulo-bonito{
+    background-color: #b97930;
+    background-size: 50%;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #ff2626;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    text-shadow: 2px 2px #8f1111;
+
+  }
+  
